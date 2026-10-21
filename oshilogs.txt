@@ -12,108 +12,104 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virna =====
-[1]Virna       |09:49:10 | 20-10-2026| login OK @rvirnaa | score=1530 rank=4591
-[1]Virna       |09:49:10 | 20-10-2026| serverTime=2026-10-20T09:49:10.000Z local=2026-10-20T09:49:10.957Z
+[1]Virna       |09:50:26 | 21-10-2026| login OK @rvirnaa | score=1590 rank=4484
+[1]Virna       |09:50:26 | 21-10-2026| serverTime=2026-10-21T09:50:26.000Z local=2026-10-21T09:50:26.228Z
 --> [1]Virna menjalankan: Claim Daily
-[1]Virna       |09:49:13 | 20-10-2026| daily: OK +10 poin score=1540
---> [1]Virna menjalankan: Auto All Tasks (5 pending)
-[1]Virna       |09:49:15 | 20-10-2026| [1/5] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rvirnaa/status/2112480784574003234
-[1]Virna       |09:49:15 | 20-10-2026| delay 10s...
-[1]Virna       |09:49:28 | 20-10-2026| [2/5] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rvirnaa/status/2112480772777297446
-[1]Virna       |09:49:28 | 20-10-2026| delay 10s...
-[1]Virna       |09:49:40 | 20-10-2026| [3/5] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rvirnaa/status/2112480892933371378
-[1]Virna       |09:49:40 | 20-10-2026| delay 10s...
-[1]Virna       |09:49:53 | 20-10-2026| [4/5] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rvirnaa/status/2112481103490515705
-[1]Virna       |09:49:53 | 20-10-2026| delay 10s...
-[1]Virna       |09:50:05 | 20-10-2026| [5/5] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/rvirnaa/status/2112481043774040630
-[1]Virna       |09:50:05 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virna       |09:50:07 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/rvirnaa/status/2112481153260603571
+[1]Virna       |09:50:27 | 21-10-2026| daily: OK +10 poin score=1600
+--> [1]Virna menjalankan: Auto All Tasks (6 pending)
+[1]Virna       |09:50:29 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/rvirnaa/status/2112843481576677718
+[1]Virna       |09:50:29 | 21-10-2026| delay 10s...
+[1]Virna       |09:50:42 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/rvirnaa/status/2112843573748546556
+[1]Virna       |09:50:42 | 21-10-2026| delay 10s...
+[1]Virna       |09:50:55 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/rvirnaa/status/2112843788058803430
+[1]Virna       |09:50:55 | 21-10-2026| delay 10s...
+[1]Virna       |09:51:07 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/rvirnaa/status/2112843850916203020
+[1]Virna       |09:51:07 | 21-10-2026| delay 10s...
+[1]Virna       |09:51:20 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/rvirnaa/status/2112843625385294584
+[1]Virna       |09:51:20 | 21-10-2026| delay 10s...
+[1]Virna       |09:51:32 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Virna       |09:51:32 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virna       |09:51:34 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/rvirnaa/status/2112843871780493894
 --> [1]Virna menjalankan: Watch Anime
-[1]Virna       |09:50:09 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Virna       |09:50:09 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Virna       |09:50:10 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Virna       |09:50:18 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Virna       |09:50:23 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Virna       |09:50:24 | 20-10-2026| watch oshi-rainbow-star: start GAGAL http=503
-[1]Virna       |09:50:29 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Virna       |09:50:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Virna       |09:50:40 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.34/87.00s)
-[1]Virna       |09:50:46 | 20-10-2026| watch oshi-rainbow-lighthouse: 13% (11.44/87.00s)
-[1]Virna       |09:50:53 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (17.29/87.00s)
-[1]Virna       |09:51:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (22.93/87.00s)
-[1]Virna       |09:51:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 33% (29.26/87.00s)
-[1]Virna       |09:51:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 40% (35.57/87.00s)
-[1]Virna       |09:51:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 47% (41.36/87.00s)
-[1]Virna       |09:51:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 54% (47.07/87.00s)
-[1]Virna       |09:51:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 60% (52.64/87.00s)
-[1]Virna       |09:51:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 67% (58.64/87.00s)
-[1]Virna       |09:51:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 73% (64.28/87.00s)
-[1]Virna       |09:51:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 80% (69.83/87.00s)
-[1]Virna       |09:51:57 | 20-10-2026| watch oshi-rainbow-lighthouse: 86% (75.34/87.00s)
-[1]Virna       |09:52:03 | 20-10-2026| watch oshi-rainbow-lighthouse: 93% (81.08/87.00s)
-[1]Virna       |09:52:03 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.08/87.00s)
-[1]Virna       |09:52:08 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Virna       |09:52:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Virna       |09:52:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.61/181.00s)
-[1]Virna       |09:52:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.43/181.00s)
-[1]Virna       |09:52:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.08/181.00s)
-[1]Virna       |09:52:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.18/181.00s)
-[1]Virna       |09:52:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.71/181.00s)
-[1]Virna       |09:52:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.22/181.00s)
-[1]Virna       |09:52:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 22% (39.85/181.00s)
-[1]Virna       |09:53:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.47/181.00s)
-[1]Virna       |09:53:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.63/181.00s)
-[1]Virna       |09:53:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.69/181.00s)
-[1]Virna       |09:53:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (63.23/181.00s)
-[1]Virna       |09:53:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 38% (69.47/181.00s)
-[1]Virna       |09:53:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.15/181.00s)
-[1]Virna       |09:53:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (80.71/181.00s)
-[1]Virna       |09:53:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (86.23/181.00s)
-[1]Virna       |09:53:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (91.91/181.00s)
-[1]Virna       |09:53:59 | 20-10-2026| watch bakeru-ikesou-jan-mv: 53% (97.46/181.00s)
-[1]Virna       |09:54:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 56% (103.12/181.00s)
-[1]Virna       |09:54:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.04/181.00s)
-[1]Virna       |09:54:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (114.97/181.00s)
-[1]Virna       |09:54:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (121.13/181.00s)
-[1]Virna       |09:54:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (126.87/181.00s)
-[1]Virna       |09:54:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.87/181.00s)
-[1]Virna       |09:54:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.41/181.00s)
-[1]Virna       |09:54:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.96/181.00s)
-[1]Virna       |09:54:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.55/181.00s)
-[1]Virna       |09:55:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.22/181.00s)
-[1]Virna       |09:55:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 88% (160.78/181.00s)
-[1]Virna       |09:55:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 91% (166.35/181.00s)
-[1]Virna       |09:55:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (166.35/181.00s)
+[1]Virna       |09:51:35 | 21-10-2026| watch: 2 video belum completed: oshi-captains-hat,oshi-rainbow-star
+[1]Virna       |09:51:35 | 21-10-2026| watch [1/2] farming oshi-captains-hat...
+[1]Virna       |09:51:39 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Virna       |09:51:45 | 21-10-2026| watch oshi-captains-hat: 5% (5.28/92.00s)
+[1]Virna       |09:51:52 | 21-10-2026| watch oshi-captains-hat: 12% (11.33/92.00s)
+[1]Virna       |09:51:58 | 21-10-2026| watch oshi-captains-hat: 18% (16.97/92.00s)
+[1]Virna       |09:52:04 | 21-10-2026| watch oshi-captains-hat: 24% (22.64/92.00s)
+[1]Virna       |09:52:10 | 21-10-2026| watch oshi-captains-hat: 30% (28.21/92.00s)
+[1]Virna       |09:52:16 | 21-10-2026| watch oshi-captains-hat: 36% (33.77/92.00s)
+[1]Virna       |09:52:23 | 21-10-2026| watch oshi-captains-hat: 42% (39.30/92.00s)
+[1]Virna       |09:52:29 | 21-10-2026| watch oshi-captains-hat: 48% (45.07/92.00s)
+[1]Virna       |09:52:36 | 21-10-2026| watch oshi-captains-hat: 55% (50.68/92.00s)
+[1]Virna       |09:52:42 | 21-10-2026| watch oshi-captains-hat: 61% (56.46/92.00s)
+[1]Virna       |09:52:48 | 21-10-2026| watch oshi-captains-hat: 67% (62.44/92.00s)
+[1]Virna       |09:52:55 | 21-10-2026| watch oshi-captains-hat: 73% (68.02/92.00s)
+[1]Virna       |09:53:02 | 21-10-2026| watch oshi-captains-hat: 80% (73.74/92.00s)
+[1]Virna       |09:53:08 | 21-10-2026| watch oshi-captains-hat: 87% (80.20/92.00s)
+[1]Virna       |09:53:14 | 21-10-2026| watch oshi-captains-hat: 93% (85.89/92.00s)
+[1]Virna       |09:53:14 | 21-10-2026| watch oshi-captains-hat: COMPLETED (85.89/92.00s)
+[1]Virna       |09:53:19 | 21-10-2026| watch [2/2] farming oshi-rainbow-star...
+[1]Virna       |09:53:21 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Virna       |09:53:28 | 21-10-2026| watch oshi-rainbow-star: 6% (5.31/86.00s)
+[1]Virna       |09:53:34 | 21-10-2026| watch oshi-rainbow-star: 12% (10.96/86.00s)
+[1]Virna       |09:53:40 | 21-10-2026| watch oshi-rainbow-star: 19% (16.70/86.00s)
+[1]Virna       |09:53:47 | 21-10-2026| watch oshi-rainbow-star: 26% (22.38/86.00s)
+[1]Virna       |09:53:53 | 21-10-2026| watch oshi-rainbow-star: 32% (28.36/86.00s)
+[1]Virna       |09:54:00 | 21-10-2026| watch oshi-rainbow-star: 39% (34.05/86.00s)
+[1]Virna       |09:54:06 | 21-10-2026| watch oshi-rainbow-star: 46% (39.70/86.00s)
+[1]Virna       |09:54:12 | 21-10-2026| watch oshi-rainbow-star: 52% (45.32/86.00s)
+[1]Virna       |09:54:19 | 21-10-2026| watch oshi-rainbow-star: 59% (51.25/86.00s)
+[1]Virna       |09:54:25 | 21-10-2026| watch oshi-rainbow-star: 66% (56.93/86.00s)
+[1]Virna       |09:54:31 | 21-10-2026| watch oshi-rainbow-star: 72% (62.55/86.00s)
+[1]Virna       |09:54:38 | 21-10-2026| watch oshi-rainbow-star: 79% (68.42/86.00s)
+[1]Virna       |09:54:44 | 21-10-2026| watch oshi-rainbow-star: 86% (74.27/86.00s)
+[1]Virna       |09:54:51 | 21-10-2026| watch oshi-rainbow-star: 93% (80.04/86.00s)
+[1]Virna       |09:54:51 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (80.04/86.00s)
 --> [1]Virna menjalankan: Read Article
-[1]Virna       |09:55:32 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:54:53 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Virna       |09:54:54 | 21-10-2026| mint eligibility: {"userId":"1723315854409138176","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rvirnaa","status":"submitted","revision":"a7723ff4-8f28-4ab6-b0d1-b702e72f53c7",
+[1]Virna       |09:55:01 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Virna menjalankan: Quiz Anime
-[1]Virna       |09:55:32 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Virna       |09:55:03 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Virna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virna       |09:55:32 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Virna       |09:55:33 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:55:05 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virna       |09:55:06 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |09:55:06 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |09:55:06 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Claim Missions
-[1]Virna       |09:55:33 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:55:07 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |09:55:07 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |09:55:07 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Check Eligibility
 
 --- eligibility [1]Virna ---
-  @rvirnaa | score=1530 rank=4591
-  tasks    [###################-] 74/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @rvirnaa | score=1590 rank=4484
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virna menjalankan: Read Manga
-[1]Virna       |09:55:34 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:55:11 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virna menjalankan: Get Gift
-[1]Virna       |09:55:34 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Virna       |09:55:12 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Virna menjalankan: Setup Profile
-[1]Virna       |09:55:35 | 20-10-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
-[1]Virna       |09:55:35 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Virna       |09:55:12 | 21-10-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
+[1]Virna       |09:55:12 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virna menjalankan: Bind Wallet
-[1]Virna       |09:55:36 | 20-10-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
+[1]Virna       |09:55:13 | 21-10-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
 
 == RINGKASAN ==
-- Virna: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet bound
+- Virna: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
