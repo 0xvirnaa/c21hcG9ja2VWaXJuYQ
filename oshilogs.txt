@@ -12,75 +12,77 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virna =====
-[1]Virna       |08:52:59 | 23-10-2026| login OK @rvirnaa | score=1750 rank=4220
-[1]Virna       |08:52:59 | 23-10-2026| serverTime=2026-10-23T08:52:59.000Z local=2026-10-23T08:52:59.266Z
+[1]Virna       |08:27:17 | 24-10-2026| login OK @rvirnaa | score=1840 rank=4103
+[1]Virna       |08:27:17 | 24-10-2026| serverTime=2026-10-24T08:27:17.000Z local=2026-10-24T08:27:17.469Z
 --> [1]Virna menjalankan: Claim Daily
-[1]Virna       |08:53:00 | 23-10-2026| daily: OK +10 poin score=1760
---> [1]Virna menjalankan: Auto All Tasks (8 pending)
-[1]Virna       |08:53:02 | 23-10-2026| [1/8] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113553832792901681
-[1]Virna       |08:53:02 | 23-10-2026| delay 10s...
-[1]Virna       |08:53:14 | 23-10-2026| [2/8] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113554008670134516
-[1]Virna       |08:53:14 | 23-10-2026| delay 10s...
-[1]Virna       |08:53:26 | 23-10-2026| [3/8] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
-[1]Virna       |08:53:26 | 23-10-2026| delay 10s...
-[1]Virna       |08:53:38 | 23-10-2026| [4/8] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113554042053321577
-[1]Virna       |08:53:38 | 23-10-2026| delay 10s...
-[1]Virna       |08:53:50 | 23-10-2026| [5/8] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113554109104052609
-[1]Virna       |08:53:50 | 23-10-2026| delay 10s...
-[1]Virna       |08:54:02 | 23-10-2026| [6/8] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113553992741226139
-[1]Virna       |08:54:02 | 23-10-2026| delay 10s...
-[1]Virna       |08:54:14 | 23-10-2026| [7/8] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113553972016241394
-[1]Virna       |08:54:14 | 23-10-2026| delay 10s...
-[1]Virna       |08:54:26 | 23-10-2026| [8/8] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rvirnaa/status/2113554269796563108
-[1]Virna       |08:54:26 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virna       |08:54:28 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/rvirnaa/status/2113554185454205431
+[1]Virna       |08:27:18 | 24-10-2026| daily: OK +10 poin score=1850
+--> [1]Virna menjalankan: Auto All Tasks (9 pending)
+[1]Virna       |08:27:20 | 24-10-2026| [1/9] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113909882088450536
+[1]Virna       |08:27:20 | 24-10-2026| delay 10s...
+[1]Virna       |08:27:32 | 24-10-2026| [2/9] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113909944110823960
+[1]Virna       |08:27:32 | 24-10-2026| delay 10s...
+[1]Virna       |08:27:44 | 24-10-2026| [3/9] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113910012448489165
+[1]Virna       |08:27:44 | 24-10-2026| delay 10s...
+[1]Virna       |08:27:56 | 24-10-2026| [4/9] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113909768478645014
+[1]Virna       |08:27:56 | 24-10-2026| delay 10s...
+[1]Virna       |08:28:08 | 24-10-2026| [5/9] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113909950148064616
+[1]Virna       |08:28:08 | 24-10-2026| delay 10s...
+[1]Virna       |08:28:20 | 24-10-2026| [6/9] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113910016871108316
+[1]Virna       |08:28:20 | 24-10-2026| delay 10s...
+[1]Virna       |08:28:33 | 24-10-2026| [7/9] 3c2cc170 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113909890597396773
+[1]Virna       |08:28:33 | 24-10-2026| delay 10s...
+[1]Virna       |08:28:44 | 24-10-2026| [8/9] 4246c642 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756
+[1]Virna       |08:28:44 | 24-10-2026| delay 10s...
+[1]Virna       |08:28:56 | 24-10-2026| [9/9] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/rvirnaa/status/2113910013411795038
+[1]Virna       |08:28:56 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virna       |08:28:58 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/rvirnaa/status/2113910327574979414
 --> [1]Virna menjalankan: Watch Anime
-[1]Virna       |08:54:29 | 23-10-2026| watch: semua video sudah completed
+[1]Virna       |08:28:59 | 24-10-2026| watch: semua video sudah completed
 --> [1]Virna menjalankan: Read Article
-[1]Virna       |08:54:30 | 23-10-2026| news: 27/27 artikel selesai dibaca
-[1]Virna       |08:54:31 | 23-10-2026| mint eligibility: {"userId":"1723315854409138176","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rvirnaa","status":"submitted","revision":"a7723ff4-8f28-4ab6-b0d1-b702e72f53c7",
-[1]Virna       |08:54:37 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Virna       |08:54:46 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Virna       |08:54:53 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Virna       |08:29:00 | 24-10-2026| news: 27/30 artikel selesai dibaca
+[1]Virna       |08:29:01 | 24-10-2026| mint eligibility: {"userId":"1723315854409138176","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rvirnaa","status":"submitted","revision":"a7723ff4-8f28-4ab6-b0d1-b702e72f53c7",
+[1]Virna       |08:29:07 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
+[1]Virna       |08:29:16 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
+[1]Virna       |08:29:24 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
 --> [1]Virna menjalankan: Quiz Anime
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep1: sudah dijawab
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep2: sudah dijawab
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep3: sudah dijawab
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep4: sudah dijawab
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep5: sudah dijawab
-[1]Virna       |08:54:56 | 23-10-2026| quiz ep6: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep1: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep2: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep3: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep4: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep5: sudah dijawab
+[1]Virna       |08:29:27 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Virna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virna       |08:54:58 | 23-10-2026| music: kedua misi sudah tercapai, stop
-[1]Virna       |08:54:59 | 23-10-2026| mission music-listens-10: sudah diklaim
-[1]Virna       |08:54:59 | 23-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virna       |08:54:59 | 23-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virna       |08:29:28 | 24-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virna       |08:29:29 | 24-10-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |08:29:29 | 24-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |08:29:29 | 24-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Claim Missions
-[1]Virna       |08:54:59 | 23-10-2026| mission music-listens-10: sudah diklaim
-[1]Virna       |08:54:59 | 23-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virna       |08:54:59 | 23-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virna       |08:29:30 | 24-10-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |08:29:30 | 24-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |08:29:30 | 24-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Check Eligibility
 
 --- eligibility [1]Virna ---
-  @rvirnaa | score=1750 rank=4220
-  tasks    [#############-------] 14/22
+  @rvirnaa | score=1840 rank=4103
+  tasks    [#############-------] 15/24
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 22/17
   music    [####################] 11/11
-  artikel  [####################] 27/27
+  artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virna menjalankan: Read Manga
-[1]Virna       |08:55:03 | 23-10-2026| manga: 0/13 chapter belum completed
+[1]Virna       |08:29:33 | 24-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virna menjalankan: Get Gift
-[1]Virna       |08:55:03 | 23-10-2026| gift: 0/4 belum diterima
+[1]Virna       |08:29:34 | 24-10-2026| gift: 0/4 belum diterima
 --> [1]Virna menjalankan: Setup Profile
-[1]Virna       |08:55:04 | 23-10-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
-[1]Virna       |08:55:04 | 23-10-2026| profile: bonus sudah diklaim, skip
+[1]Virna       |08:29:34 | 24-10-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
+[1]Virna       |08:29:34 | 24-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virna menjalankan: Bind Wallet
-[1]Virna       |08:55:05 | 23-10-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
+[1]Virna       |08:29:35 | 24-10-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
 
 == RINGKASAN ==
-- Virna: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Virna: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
