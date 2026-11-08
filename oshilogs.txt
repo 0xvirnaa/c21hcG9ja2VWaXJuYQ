@@ -12,47 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virna =====
-[1]Virna       |06:43:42 | 07-11-2026| login OK @rvirnaa | score=2880 rank=2747
-[1]Virna       |06:43:42 | 07-11-2026| serverTime=2026-11-07T06:43:42.000Z local=2026-11-07T06:43:42.901Z
+[1]Virna       |08:47:48 | 08-11-2026| login OK @rvirnaa | score=2960 rank=2592
+[1]Virna       |08:47:48 | 08-11-2026| serverTime=2026-11-08T08:47:48.000Z local=2026-11-08T08:47:48.459Z
 --> [1]Virna menjalankan: Claim Daily
-[1]Virna       |06:43:44 | 07-11-2026| daily: OK +10 poin score=2890
---> [1]Virna menjalankan: Auto All Tasks (7 pending)
-[1]Virna       |06:43:45 | 07-11-2026| [1/7] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957022811976084
-[1]Virna       |06:43:45 | 07-11-2026| delay 10s...
-[1]Virna       |06:43:58 | 07-11-2026| [2/7] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957214864465289
-[1]Virna       |06:43:58 | 07-11-2026| delay 10s...
-[1]Virna       |06:44:09 | 07-11-2026| [3/7] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957077064186774
-[1]Virna       |06:44:09 | 07-11-2026| delay 10s...
-[1]Virna       |06:44:21 | 07-11-2026| [4/7] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957159918393964
-[1]Virna       |06:44:21 | 07-11-2026| delay 10s...
-[1]Virna       |06:44:33 | 07-11-2026| [5/7] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957222237032101
-[1]Virna       |06:44:33 | 07-11-2026| delay 10s...
-[1]Virna       |06:44:45 | 07-11-2026| [6/7] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957548873998248
-[1]Virna       |06:44:45 | 07-11-2026| delay 10s...
-[1]Virna       |06:44:57 | 07-11-2026| [7/7] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/rvirnaa/status/2118957327155007746
-[1]Virna       |06:44:57 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virna       |06:44:59 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/rvirnaa/status/2118957460045773575
+[1]Virna       |08:47:51 | 08-11-2026| daily ERROR: daily http 503: {"error":"いまPODの記録を読めませんでした。少しあとでもう一度受け取ってください。"}
+--> [1]Virna menjalankan: Auto All Tasks (4 pending)
+[1]Virna       |08:47:53 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/rvirnaa/status/2119350618549376671
+[1]Virna       |08:47:53 | 08-11-2026| delay 10s...
+[1]Virna       |08:48:06 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/rvirnaa/status/2119350675590298861
+[1]Virna       |08:48:06 | 08-11-2026| delay 10s...
+[1]Virna       |08:48:18 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/rvirnaa/status/2119350949178690666
+[1]Virna       |08:48:18 | 08-11-2026| delay 10s...
+[1]Virna       |08:48:30 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/rvirnaa/status/2119350916291057533
+[1]Virna       |08:48:30 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virna       |08:48:33 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/rvirnaa/status/2119350741447819734
 --> [1]Virna menjalankan: Watch Anime
-[1]Virna       |06:45:00 | 07-11-2026| watch: semua video sudah completed
+[1]Virna       |08:48:34 | 08-11-2026| watch: semua video sudah completed
 --> [1]Virna menjalankan: Read Article
-[1]Virna       |06:45:01 | 07-11-2026| news: 34/34 artikel selesai dibaca
-[1]Virna       |06:45:02 | 07-11-2026| mint eligibility: {"userId":"1723315854409138176","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rvirnaa","status":"submitted","revision":"a7723ff4-8f28-4ab6-b0d1-b702e72f53c7",
-[1]Virna       |06:45:02 | 07-11-2026| news: semua artikel sudah dibaca
+[1]Virna       |08:48:36 | 08-11-2026| news: 34/34 artikel selesai dibaca
+[1]Virna       |08:48:37 | 08-11-2026| mint eligibility: {"userId":"1723315854409138176","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rvirnaa","status":"submitted","revision":"a7723ff4-8f28-4ab6-b0d1-b702e72f53c7",
+[1]Virna       |08:48:37 | 08-11-2026| news: semua artikel sudah dibaca
 --> [1]Virna menjalankan: Quiz Anime
 --> [1]Virna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virna       |06:45:05 | 07-11-2026| music: kedua misi sudah tercapai, stop
-[1]Virna       |06:45:05 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Virna       |06:45:05 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Virna       |06:45:05 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Virna       |08:48:39 | 08-11-2026| music: kedua misi sudah tercapai, stop
+[1]Virna       |08:48:40 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |08:48:40 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |08:48:40 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Claim Missions
-[1]Virna       |06:45:06 | 07-11-2026| mission music-listens-10: sudah diklaim
-[1]Virna       |06:45:06 | 07-11-2026| mission music-minutes-30: sudah diklaim
-[1]Virna       |06:45:06 | 07-11-2026| mission anime-completed-3: sudah diklaim
+[1]Virna       |08:48:40 | 08-11-2026| mission music-listens-10: sudah diklaim
+[1]Virna       |08:48:40 | 08-11-2026| mission music-minutes-30: sudah diklaim
+[1]Virna       |08:48:40 | 08-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virna menjalankan: Check Eligibility
 
 --- eligibility [1]Virna ---
-  @rvirnaa | score=2880 rank=2747
-  tasks    [###-----------------] 1/8
+  @rvirnaa | score=2960 rank=2592
+  tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,17 +57,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virna menjalankan: Read Manga
-[1]Virna       |06:45:10 | 07-11-2026| manga: 0/13 chapter belum completed
+[1]Virna       |08:48:44 | 08-11-2026| manga: 0/13 chapter belum completed
 --> [1]Virna menjalankan: Get Gift
-[1]Virna       |06:45:11 | 07-11-2026| gift: 3/9 belum diterima
-[1]Virna       |06:45:12 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Virna       |06:45:14 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Virna       |06:45:17 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virna       |08:48:46 | 08-11-2026| gift: 3/9 belum diterima
+[1]Virna       |08:48:47 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virna       |08:48:50 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Virna       |08:48:53 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Virna menjalankan: Setup Profile
-[1]Virna       |06:45:20 | 07-11-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
-[1]Virna       |06:45:20 | 07-11-2026| profile: bonus sudah diklaim, skip
+[1]Virna       |08:48:55 | 08-11-2026| profile: bio="https://x.com/rvirnaa" fav=kagura rewardAt=1791688921
+[1]Virna       |08:48:55 | 08-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Virna menjalankan: Bind Wallet
-[1]Virna       |06:45:21 | 07-11-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
+[1]Virna       |08:48:56 | 08-11-2026| wallet: sudah terikat 3XTC7oum1R... (solana)
 
 == RINGKASAN ==
-- Virna: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Virna: daily=- | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
